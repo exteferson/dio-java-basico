@@ -29,7 +29,5 @@ public class Usuario {
         smartTv.mudarCanal(15);
 
         smartTv.desligar();
-
-
     }
 }
